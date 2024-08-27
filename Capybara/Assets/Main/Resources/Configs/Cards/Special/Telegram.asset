@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6de648faa44f2788b32af255285bc3, type: 3}
+  m_Name: Telegram
+  m_EditorClassIdentifier: 
+  FileName: Telegram
+  _cardID: 85a75df9
+  _cardIcon: {fileID: -1090649795, guid: 578bf5b9e556cda48a5795677d73f7de, type: 3}
+  _cardIconType: 0
+  _shortName: Telegram
+  _shortInfo: telegram sample
+  _largeName: Telegram chanel card
+  _largeInfo: Welcome to our chanel
+  _backgroundGradient:
+    _direction: 1
+    _topLeft: {r: 1, g: 1, b: 1, a: 1}
+    _topRight: {r: 1, g: 1, b: 1, a: 1}
+    _color1: {r: 0.34509805, g: 0.7411765, b: 0.93725497, a: 1}
+    _color2: {r: 0.11764707, g: 0.43137258, b: 0.5921569, a: 1}
+    _rotation: 0
+    _offset1: 0
+    _horizontalOffset: 0
+    _gradientStyle: 0
+  _cardBuyCondition: 0
+  _upgradeCardCondition:
+    _cardToUpgrade: {fileID: 0}
+    _targetLevel: 1
+  _mining: a3010000000000002704000000000000b6050000000000002607000000000000dd080000000000009c0c000000000000690d000000000000ae0d0000000000004f10000000000000e012000000000000f215000000000000d4160000000000001919000000000000251a000000000000bc1d000000000000fe20000000000000a42100000000000089230000000000001b250000000000005226000000000000
+  _upgradeCost: 3702000000000000a507000000000000aa0d00000000000014100000000000006e120000000000000715000000000000af1b000000000000fe21000000000000022600000000000075290000000000003a2f000000000000fb36000000000000ca3d000000000000fd3f0000000000000e46000000000000e24b0000000000008b530000000000001f56000000000000775a000000000000f85f000000000000

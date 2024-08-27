@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e202f3257e746be9bc3c3df7beb0132, type: 3}
+  m_Name: GlobalConfig
+  m_EditorClassIdentifier: 
+  FileName: GlobalConfig
+  _enableDebug: 1
+  _gameTimersTickInterval: 0.1
+  _volumeConfig: {fileID: 11400000, guid: 2a8fcb2fd932c2d4abd7a1c54f2a7bc9, type: 2}
+  _audioClipsListConfig: {fileID: 11400000, guid: ed4b1594620c35542af67adb2990af77, type: 2}
+  _stocks:
+  - {fileID: 11400000, guid: 06cd5499409adf542b2d15cb6f23b3a6, type: 2}
+  - {fileID: 11400000, guid: d63014851f5f4184cbf6a92ffcf14a25, type: 2}
+  _linksConfig:
+    _privacyPolicyLink: https://www.privacypolicies.com/
+  _maxMiningTime: 3

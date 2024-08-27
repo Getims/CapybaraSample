@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be906ded6ee3472099a5fac980fc5b44, type: 3}
+  m_Name: Discord
+  m_EditorClassIdentifier: 
+  FileName: Discord
+  _taskID: 34f12601
+  _taskType: 3
+  _taskName: "\u041F\u043E\u0434\u043F\u0438\u0448\u0438\u0441\u044C \u043D\u0430
+    Discord"
+  _taskIcon: {fileID: -1344053496, guid: d1edae99396fc3e458ed51bae65ff82a, type: 3}
+  _taskDescription: 
+  _taskLink: https://discord.com/
+  _reward: 5000
+  _friendsCount: 1

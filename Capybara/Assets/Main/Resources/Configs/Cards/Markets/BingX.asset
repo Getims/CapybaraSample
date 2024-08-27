@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6de648faa44f2788b32af255285bc3, type: 3}
+  m_Name: BingX
+  m_EditorClassIdentifier: 
+  FileName: BingX
+  _cardID: bdb29a43
+  _cardIcon: {fileID: 306673050, guid: 9013415c81b10bf4b8f3bfeb22be9375, type: 3}
+  _cardIconType: 0
+  _shortName: BingX
+  _shortInfo: BingX info sample
+  _largeName: BingX large name sample
+  _largeInfo: BingX short info sample. Test test test test
+  _backgroundGradient:
+    _direction: 1
+    _topLeft: {r: 1, g: 1, b: 1, a: 1}
+    _topRight: {r: 1, g: 1, b: 1, a: 1}
+    _color1: {r: 0.19215688, g: 0.3921569, b: 0.8941177, a: 1}
+    _color2: {r: 0.14901961, g: 0.29411766, b: 0.6784314, a: 1}
+    _rotation: 0
+    _offset1: 0
+    _horizontalOffset: 0
+    _gradientStyle: 0
+  _cardBuyCondition: 0
+  _upgradeCardCondition:
+    _cardToUpgrade: {fileID: 0}
+    _targetLevel: 1
+  _mining: 39000000000000008e00000000000000d1000000000000000a010000000000006801000000000000aa01000000000000ea0100000000000045020000000000008702000000000000dd0200000000000011030000000000006003000000000000bc0300000000000010040000000000006704000000000000c8040000000000001a050000000000007105000000000000cf050000000000000806000000000000
+  _upgradeCost: 3c000000000000007600000000000000b100000000000000ee0000000000000024010000000000006001000000000000bf01000000000000060200000000000041020000000000007c02000000000000c202000000000000f5020000000000005103000000000000b003000000000000ee0300000000000025040000000000007e04000000000000b60400000000000012050000000000004405000000000000

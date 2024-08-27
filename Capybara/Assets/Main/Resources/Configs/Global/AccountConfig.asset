@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb217fadda944bb90d37c32c62954b9, type: 3}
+  m_Name: AccountConfig
+  m_EditorClassIdentifier: Assembly-CSharp:Main.Scripts.Configs.Accounts:AccountConfig
+  FileName: AccountConfig
+  _accountLevels:
+  - {fileID: 11400000, guid: fa0a73629cbd3b446b78ef6ac4a1f970, type: 2}
+  - {fileID: 11400000, guid: 9c5665df0d59be447b4dcba5ffd0d174, type: 2}
+  - {fileID: 11400000, guid: 9263440d120f75e4796753e80a48fcbe, type: 2}
+  - {fileID: 11400000, guid: 3ed21583b5eefb340ba008b0bf10a9bd, type: 2}
+  - {fileID: 11400000, guid: dd3e307a71f3fc149a44bcf4aa7262f6, type: 2}
+  - {fileID: 11400000, guid: fdb1643bdfc18d84a9c35d54a5e406c4, type: 2}
+  - {fileID: 11400000, guid: 32a348f74150939418fcd66db42c3246, type: 2}
+  - {fileID: 11400000, guid: 1350de7bbb9f68a40b90503e1bb453cb, type: 2}
+  - {fileID: 11400000, guid: 95ae0a6aeb8351a4680897bfd4022dcc, type: 2}
+  - {fileID: 11400000, guid: f687a385794149b48aea05268d20e0a3, type: 2}
+  _fakeAccountsData:
+  - _accountIcon: {fileID: -1039208146, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0412\u0435\u0442\u0440\u0430 \u0443\u043D\u044B\u043B\u043E\u0433\u043E
+      \u0432\u043E\u0439 "
+  - _accountIcon: {fileID: -1801489545, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u041C\u044B\u043B\u043E\u0432\u0430\u0440\u0438\u0449\u0435"
+  - _accountIcon: {fileID: 529567454, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u2660 \u0411\u0435Z\u0443\u041C\u043D\u044B\u0419 \u2660 "
+  - _accountIcon: {fileID: -1580179702, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0412\u041A\u0435\u0434\u0430\u0445"
+  - _accountIcon: {fileID: 429514681, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0428\u043C\u0415\u0440\u0422\u044C_\u0412_\u041F\u043E\u0414\u0433\u0423\u0437\u041D\u0438\u041A\u0430\u0425 "
+  - _accountIcon: {fileID: -1639059069, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: CrazyTapok
+  - _accountIcon: {fileID: 1851454163, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u044F_\u041D\u0415_\u0445\u043E\u043C\u044F\u043A"
+  - _accountIcon: {fileID: -898722655, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "KYR\u041B\u042BK"
+  - _accountIcon: {fileID: -2077620796, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "yzbago\u0439c\u044F"
+  - _accountIcon: {fileID: 813896641, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0421\u0430\u0440\u0414\u0435\u043B\u044C\u041A\u0430_\u0421\u043F\u0440\u0430\u0412\u0435\u0434\u043B\u0418\u0432\u043E\u0421\u0442\u0418"
+  - _accountIcon: {fileID: 413817537, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: 'ReLaX '
+  - _accountIcon: {fileID: 304206818, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: Mr.Fun
+  - _accountIcon: {fileID: -209542776, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u041F\u044C\u044F\u043D\u0430\u044F \u0431\u0435\u043B\u043A\u0430"
+  - _accountIcon: {fileID: 1028330729, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0437\u0430\u0447\u0435\u043C_\u043C\u043D\u0435_\u043D\u0438\u043A "
+  - _accountIcon: {fileID: -1084766034, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: Miwka
+  - _accountIcon: {fileID: -999857867, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: Dead Moroz
+  - _accountIcon: {fileID: 183226295, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0422\u0420\u0410\u0412\u0410_\u041D\u0415_\u041D\u0410\u0420\u041A\u041E\u0422\u0418\u041A"
+  - _accountIcon: {fileID: -1882579274, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0417\u043B\u0430\u044F \u043F\u0435\u0447\u0435\u043D\u044C\u043A\u0430"
+  - _accountIcon: {fileID: 1294399640, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0411\u0430\u0442\u043E\u043D \u0421\u0443\u0434\u044C\u0431\u044B"
+  - _accountIcon: {fileID: -540415180, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0421\u043E\u0432\u0430_\u0412_\u041A\u0435\u0434\u0430\u0425"
+  - _accountIcon: {fileID: -179603347, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: KeFir4Ik
+  - _accountIcon: {fileID: -997993401, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: PaRoVozik_KotOriY_CmoG
+  - _accountIcon: {fileID: 1605572216, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "DeD_C_\u0411yX\u043B\u041E\u043C"
+  - _accountIcon: {fileID: 1883017380, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0411\u0430\u0431\u0430\u0439\u043A\u0430"
+  - _accountIcon: {fileID: -1550045570, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u041E\u0431\u0438\u0442\u0430\u0442\u0435\u043B\u044C \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u0430"
+  - _accountIcon: {fileID: 884424728, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: GreeM
+  - _accountIcon: {fileID: 1525541480, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: bublik
+  - _accountIcon: {fileID: -1064061928, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0422@\u043FOk_\u0411\u043E\u0431\u0440@"
+  - _accountIcon: {fileID: -1018763512, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0401\u0436\u0438\u043A \u0432 \u0442\u0443\u043C\u0430\u043D\u0435"
+  - _accountIcon: {fileID: -1070222063, guid: 57c3ccddab4d642458ba120330b4c51d, type: 3}
+    _accountName: "\u0411\u0435\u0433\u0443\u0449\u0438\u0439 \u043F\u043E \u0433\u0440\u0430\u0431\u043B\u044F\u043C"

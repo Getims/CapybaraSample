@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ec0eb26e378421d893730fb7d3eda5c, type: 3}
+  m_Name: TapGameConfig
+  m_EditorClassIdentifier: 
+  FileName: TapGameConfig
+  _moneyConfig:
+    _moneyPerTap: 1
+    _moneyTapPerAccountLevel: 1
+    _upgradeCost: f401000000000000e803000000000000d00700000000000088130000000000001027000000000000a86100000000000050c3000000000000a08601000000000090d003000000000020a1070000000000b0710b000000000040420f000000000060e316000000000080841e0000000000a025260000000000
+    _moneyTapPerUpgradeLevel: 1
+  _energyConfig:
+    _startEnergy: 500
+    _recoveryPerSecond: 1
+    _recoveryPerAccountLevel: 0.2
+    _upgradeCost: f401000000000000e803000000000000d00700000000000088130000000000001027000000000000a86100000000000050c3000000000000a08601000000000090d003000000000020a1070000000000b0710b000000000040420f000000000060e316000000000080841e0000000000a025260000000000
+    _energyPerUpgrade: 500
+    _energyPerAccountLevel: 500
+    _fullRecoveryCount: 3
+    _fullRecoveryPerAccountLevel: 1
+    _hoursBetweenFullRecoveryUse: 1
+  _turboConfig:
+    _turboEnabled: 0
+    _turboOnScreenTime: 3
+    _turboWorkTime: 10
+    _moneyBoostMultiplier: 2
+    _energyBoostMultiplier: 0
+    _turboSpawnChance: 10
+    _timeBetweenTurboSpawn: {x: 10, y: 135}
+    _turboCountPerDay: 5
+    _turboCountPerAccountLevel: 1

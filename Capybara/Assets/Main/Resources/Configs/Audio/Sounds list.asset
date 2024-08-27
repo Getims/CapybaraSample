@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48c58f889298428287340e7cef0b56e6, type: 3}
+  m_Name: Sounds list
+  m_EditorClassIdentifier: 
+  FileName: Sounds list
+  _gameBackgroundMusic:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: bbac4b1769870744fbe5a62729ace92c, type: 3}
+    _soundPercent: 1
+  _addCoin:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: fc7b8edabb143df41ba506709d604394, type: 3}
+    _soundPercent: 0.5
+  _buttonClick:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 15585b89b4b2c2f44804cf6f750f2ee5, type: 3}
+    _soundPercent: 1
+  _taskComplete:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: a750e5a788a495742ab41dfa123ad39f, type: 3}
+    _soundPercent: 1
+  _tap:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 15585b89b4b2c2f44804cf6f750f2ee5, type: 3}
+    _soundPercent: 1
+  _turboTap:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: fc7b8edabb143df41ba506709d604394, type: 3}
+    _soundPercent: 1
+  _turboPick:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: a750e5a788a495742ab41dfa123ad39f, type: 3}
+    _soundPercent: 1
+  _cardBought:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: a750e5a788a495742ab41dfa123ad39f, type: 3}
+    _soundPercent: 1
+  _comboComplete:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: a750e5a788a495742ab41dfa123ad39f, type: 3}
+    _soundPercent: 1

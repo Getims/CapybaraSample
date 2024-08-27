@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be906ded6ee3472099a5fac980fc5b44, type: 3}
+  m_Name: Stock
+  m_EditorClassIdentifier: 
+  FileName: Stock
+  _taskID: eceb91ef
+  _taskType: 1
+  _taskName: "\u0412\u044B\u0431\u0435\u0440\u0438 \u0431\u0438\u0440\u0436\u0443"
+  _taskIcon: {fileID: 763184344, guid: d1edae99396fc3e458ed51bae65ff82a, type: 3}
+  _taskDescription: 
+  _taskLink: https://discord.com/
+  _reward: 5000
+  _friendsCount: 1

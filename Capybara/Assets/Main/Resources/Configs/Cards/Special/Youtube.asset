@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6de648faa44f2788b32af255285bc3, type: 3}
+  m_Name: Youtube
+  m_EditorClassIdentifier: 
+  FileName: Youtube
+  _cardID: 76b99e79
+  _cardIcon: {fileID: -1200391583, guid: 578bf5b9e556cda48a5795677d73f7de, type: 3}
+  _cardIconType: 0
+  _shortName: Youtube
+  _shortInfo: Card info sample
+  _largeName: Card large name sample
+  _largeInfo: Card short name sample. Test test test test
+  _backgroundGradient:
+    _direction: 1
+    _topLeft: {r: 1, g: 1, b: 1, a: 1}
+    _topRight: {r: 1, g: 1, b: 1, a: 1}
+    _color1: {r: 0.34901962, g: 0.34901962, b: 0.3529412, a: 1}
+    _color2: {r: 0.17254902, g: 0.16862746, b: 0.17254902, a: 1}
+    _rotation: 0
+    _offset1: -0.25
+    _horizontalOffset: 0
+    _gradientStyle: 0
+  _cardBuyCondition: 1
+  _upgradeCardCondition:
+    _cardToUpgrade: {fileID: 11400000, guid: c53f5e1677709b041a81a27a89c117fc, type: 2}
+    _targetLevel: 1
+  _mining: 72010000000000007c02000000000000b203000000000000520500000000000055060000000000001c080000000000009f09000000000000e90a000000000000810c000000000000720e0000000000001010000000000000a2110000000000007d130000000000005715000000000000fb160000000000000a18000000000000e219000000000000ae1b000000000000341d0000000000005d1e000000000000
+  _upgradeCost: 4b08000000000000ad110000000000002c1a0000000000003d230000000000003a2b000000000000bb34000000000000983c0000000000008545000000000000dd4e000000000000fa56000000000000c55f000000000000b168000000000000e9700000000000009f79000000000000ac82000000000000878b0000000000006293000000000000279c0000000000005aa400000000000019ad000000000000

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6de648faa44f2788b32af255285bc3, type: 3}
+  m_Name: Dex
+  m_EditorClassIdentifier: 
+  FileName: Dex
+  _cardID: f9f5690d
+  _cardIcon: {fileID: -1511171001, guid: 9013415c81b10bf4b8f3bfeb22be9375, type: 3}
+  _cardIconType: 0
+  _shortName: Dex
+  _shortInfo: Dex info sample
+  _largeName: Dex large name sample
+  _largeInfo: Dex short info sample. Test test test test
+  _backgroundGradient:
+    _direction: 1
+    _topLeft: {r: 1, g: 1, b: 1, a: 1}
+    _topRight: {r: 1, g: 1, b: 1, a: 1}
+    _color1: {r: 0.19215687, g: 0.19215687, b: 0.30980393, a: 1}
+    _color2: {r: 0.12941177, g: 0.1254902, b: 0.12941177, a: 1}
+    _rotation: 0
+    _offset1: 0
+    _horizontalOffset: 0
+    _gradientStyle: 0
+  _cardBuyCondition: 0
+  _upgradeCardCondition:
+    _cardToUpgrade: {fileID: 0}
+    _targetLevel: 1
+  _mining: 55000000000000009600000000000000f50000000000000034010000000000008301000000000000ba010000000000000e020000000000006702000000000000ca0200000000000016030000000000006103000000000000aa03000000000000f3030000000000003d040000000000009004000000000000ee0400000000000040050000000000009705000000000000d5050000000000003006000000000000
+  _upgradeCost: 63000000000000009900000000000000dd0000000000000027010000000000006101000000000000a801000000000000fc010000000000003c020000000000009802000000000000e30200000000000040030000000000009803000000000000e9030000000000004a040000000000008404000000000000b604000000000000f9040000000000004d050000000000009005000000000000d605000000000000

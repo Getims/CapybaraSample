@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6de648faa44f2788b32af255285bc3, type: 3}
+  m_Name: Binance
+  m_EditorClassIdentifier: 
+  FileName: Binance
+  _cardID: 762ac599
+  _cardIcon: {fileID: -478851850, guid: 9013415c81b10bf4b8f3bfeb22be9375, type: 3}
+  _cardIconType: 0
+  _shortName: Binance title
+  _shortInfo: Binance info sample
+  _largeName: Binance large name sample
+  _largeInfo: Binance short info sample. Test test test test
+  _backgroundGradient:
+    _direction: 1
+    _topLeft: {r: 1, g: 1, b: 1, a: 1}
+    _topRight: {r: 1, g: 1, b: 1, a: 1}
+    _color1: {r: 0.19215688, g: 0.19607845, b: 0.20392159, a: 1}
+    _color2: {r: 0.19215688, g: 0.19607845, b: 0.20392159, a: 1}
+    _rotation: 0
+    _offset1: 0
+    _horizontalOffset: 0
+    _gradientStyle: 0
+  _cardBuyCondition: 0
+  _upgradeCardCondition:
+    _cardToUpgrade: {fileID: 0}
+    _targetLevel: 1
+  _mining: 33000000000000008700000000000000bc00000000000000f2000000000000004901000000000000a301000000000000f30100000000000029020000000000006802000000000000b302000000000000010300000000000055030000000000008b03000000000000c80300000000000021040000000000007404000000000000b8040000000000000a050000000000006d05000000000000cf05000000000000
+  _upgradeCost: 67000000000000000a01000000000000a6010000000000005602000000000000bd02000000000000ae030000000000003f040000000000001f05000000000000ac050000000000007c0600000000000028070000000000001b080000000000008b080000000000007a09000000000000070a000000000000750a0000000000005d0b000000000000c10b0000000000005e0c000000000000170d000000000000

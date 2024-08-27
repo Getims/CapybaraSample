@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6de648faa44f2788b32af255285bc3, type: 3}
+  m_Name: BlackRock
+  m_EditorClassIdentifier: 
+  FileName: BlackRock
+  _cardID: 11d4c8a1
+  _cardIcon: {fileID: 1242541406, guid: 9013415c81b10bf4b8f3bfeb22be9375, type: 3}
+  _cardIconType: 0
+  _shortName: Black Rock
+  _shortInfo: Black Rock info sample
+  _largeName: Black Rock large name sample
+  _largeInfo: Black Rock short info sample. Test test test test
+  _backgroundGradient:
+    _direction: 1
+    _topLeft: {r: 1, g: 1, b: 1, a: 1}
+    _topRight: {r: 1, g: 1, b: 1, a: 1}
+    _color1: {r: 0.25882354, g: 0.25490198, b: 0.25882354, a: 1}
+    _color2: {r: 0.24705884, g: 0.23529413, b: 0.23529413, a: 1}
+    _rotation: 0
+    _offset1: 0
+    _horizontalOffset: 0
+    _gradientStyle: 0
+  _cardBuyCondition: 0
+  _upgradeCardCondition:
+    _cardToUpgrade: {fileID: 0}
+    _targetLevel: 1
+  _mining: 49000000000000007d00000000000000cc0000000000000016010000000000006601000000000000a101000000000000d6010000000000002c020000000000007702000000000000bf02000000000000fe020000000000005203000000000000b503000000000000000400000000000032040000000000007904000000000000bd040000000000001c050000000000007a05000000000000b105000000000000
+  _upgradeCost: 32000000000000006500000000000000ad00000000000000e4000000000000002e010000000000008401000000000000bf0100000000000020020000000000005602000000000000b802000000000000f90200000000000053030000000000009a03000000000000de0300000000000022040000000000006904000000000000c70400000000000012050000000000004a050000000000008605000000000000

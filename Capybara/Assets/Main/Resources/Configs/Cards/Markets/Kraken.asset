@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6de648faa44f2788b32af255285bc3, type: 3}
+  m_Name: Kraken
+  m_EditorClassIdentifier: 
+  FileName: Kraken
+  _cardID: 74969056
+  _cardIcon: {fileID: -2039217458, guid: 9013415c81b10bf4b8f3bfeb22be9375, type: 3}
+  _cardIconType: 0
+  _shortName: Kraken title
+  _shortInfo: Krakeninfo sample
+  _largeName: Kraken large name sample
+  _largeInfo: Kraken short info sample. Test test test test
+  _backgroundGradient:
+    _direction: 1
+    _topLeft: {r: 1, g: 1, b: 1, a: 1}
+    _topRight: {r: 1, g: 1, b: 1, a: 1}
+    _color1: {r: 0.43137258, g: 0.36078432, b: 0.8196079, a: 1}
+    _color2: {r: 0.23529413, g: 0.1764706, b: 0.56078434, a: 1}
+    _rotation: 0
+    _offset1: 0
+    _horizontalOffset: 0
+    _gradientStyle: 0
+  _cardBuyCondition: 0
+  _upgradeCardCondition:
+    _cardToUpgrade: {fileID: 0}
+    _targetLevel: 1
+  _mining: 3b000000000000009a00000000000000e8000000000000001d010000000000005d010000000000009301000000000000ed010000000000002b020000000000008102000000000000b80200000000000002030000000000003c030000000000007803000000000000d30300000000000030040000000000008704000000000000cd04000000000000020500000000000044050000000000009605000000000000
+  _upgradeCost: 43000000000000008200000000000000d40000000000000010010000000000006301000000000000c50100000000000009020000000000005e02000000000000ba0200000000000018030000000000005303000000000000ac03000000000000f00300000000000030040000000000009204000000000000d4040000000000001e050000000000005105000000000000a805000000000000fb05000000000000

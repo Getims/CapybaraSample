@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65312fd1c57c4a77a4732367fd2285f0, type: 3}
+  m_Name: CardsConfig
+  m_EditorClassIdentifier: 
+  FileName: CardsConfig
+  _cardsGroups:
+  - _groupName: Base
+    _cards:
+    - {fileID: 11400000, guid: e484239eae4482747888c39e88bc6bcd, type: 2}
+    - {fileID: 11400000, guid: c51d9afdbbb3e14478146772d362bf31, type: 2}
+    - {fileID: 11400000, guid: 6afdb83b9c3d3dc45b2b44df62d618ba, type: 2}
+    - {fileID: 11400000, guid: d0486f6ad5461b64cbfeca216084a092, type: 2}
+    - {fileID: 11400000, guid: 9ab6747bca26f574e964e5b1e175cf0c, type: 2}
+    - {fileID: 11400000, guid: aff2770259117e94abf93f0ea32a3047, type: 2}
+    - {fileID: 11400000, guid: a3935740508680440915810899175213, type: 2}
+    - {fileID: 11400000, guid: 70fe6b325003fc042b3032d4eec4a823, type: 2}
+    - {fileID: 11400000, guid: 7182b959a7711e745aa22eed1db7cc24, type: 2}
+    - {fileID: 11400000, guid: 8d5606997bded4946833762afc9d03a2, type: 2}
+    - {fileID: 11400000, guid: 4bf8de490582bbb42a9024a85f54b0fa, type: 2}
+    - {fileID: 11400000, guid: 3189f7de95039be4db3d38857a35fdc7, type: 2}
+    - {fileID: 11400000, guid: 60a89a2805fd60646a19567deb2b6698, type: 2}
+    - {fileID: 11400000, guid: b7c87b87c9bc8944597d04d13985aa07, type: 2}
+    - {fileID: 11400000, guid: 96663f42708326e4eb023500ef4916e7, type: 2}
+    - {fileID: 11400000, guid: 660029940df188a4dbc0f63cf4b1098e, type: 2}
+    - {fileID: 11400000, guid: ae64a082e269d2644a29bab651ec6f23, type: 2}
+    - {fileID: 11400000, guid: 1300ffaad43eef84aa626e11eb0c26ad, type: 2}
+    - {fileID: 11400000, guid: 4b55b502651653e47a68e9c4024dea36, type: 2}
+    - {fileID: 11400000, guid: 8b61ceb449edc8443a0a440524400695, type: 2}
+    - {fileID: 11400000, guid: 7d449b6850a4c514785ec5b0e85a71b3, type: 2}
+    - {fileID: 11400000, guid: 118d41222cfdd5641b243a5a5c8ece9c, type: 2}
+    - {fileID: 11400000, guid: c5c3b9b6e8491a0498fd008f49776bc1, type: 2}
+    - {fileID: 11400000, guid: cc710b18056b2b847af7bb7dededface, type: 2}
+    - {fileID: 11400000, guid: b6747e60a8d32144a89c14b4134d3831, type: 2}
+    - {fileID: 11400000, guid: 1dd8e2a0a70f75f459fc47cb4c444f19, type: 2}
+    - {fileID: 11400000, guid: 253076cf46eaee04abb3ec532637d4a9, type: 2}
+    - {fileID: 11400000, guid: ab1dfe86c2f0e1e4da7a86ed9ccfa1b8, type: 2}
+    - {fileID: 11400000, guid: 7a1b41e9a67320c468dee2843ce3bfd7, type: 2}
+    - {fileID: 11400000, guid: 9bf41404c2c81104ebe72f6eb47a1faa, type: 2}
+    - {fileID: 11400000, guid: 021e68f7c97907e40abe4b92d5e4c9db, type: 2}
+    - {fileID: 11400000, guid: 51ceea99b5e661d4aa1b71b18aee18cc, type: 2}
+    - {fileID: 11400000, guid: e5ff4ed50cc695340b5a4eafb401703e, type: 2}
+    - {fileID: 11400000, guid: e999731a62c002747b40dd266a89761e, type: 2}
+    - {fileID: 11400000, guid: e175baa2f9661ec4dbac5be9ecb47292, type: 2}
+  - _groupName: Tokens
+    _cards:
+    - {fileID: 11400000, guid: a3857ffeb582bec41b658fd8824c250a, type: 2}
+    - {fileID: 11400000, guid: c5f9670c1a124394cb3444b5914ae72e, type: 2}
+    - {fileID: 11400000, guid: 0d883a1fb0f9f9c42ab5c6d2a4ae0df4, type: 2}
+    - {fileID: 11400000, guid: 66f063d2071bd17479975717332ad8e7, type: 2}
+    - {fileID: 11400000, guid: a5a186cabde6f0942bde8a082b9fa0d3, type: 2}
+    - {fileID: 11400000, guid: ed7e710c684fc424585a60939d909a96, type: 2}
+    - {fileID: 11400000, guid: a5be1a3879684e742bb380ed221aa214, type: 2}
+    - {fileID: 11400000, guid: f3d931d5f8b96db4da91334fa684fe8e, type: 2}
+    - {fileID: 11400000, guid: da83890c754154b4f83d3098a5538fac, type: 2}
+    - {fileID: 11400000, guid: 54f757dd4714df94289d53cfd8018582, type: 2}
+  - _groupName: Markets
+    _cards:
+    - {fileID: 11400000, guid: 833359c1c625e424e87b2ded109556e5, type: 2}
+    - {fileID: 11400000, guid: 1218726b58b48bf4d8030f40173346fa, type: 2}
+    - {fileID: 11400000, guid: ecc90055f0f67d64ab8766d3eae07e38, type: 2}
+    - {fileID: 11400000, guid: 31211526317f9a94197ba8b59201a4e4, type: 2}
+    - {fileID: 11400000, guid: 01b191f0f72f1c24b93eecf36f493953, type: 2}
+    - {fileID: 11400000, guid: 4f314d7dc83ddec4385837f93207958f, type: 2}
+    - {fileID: 11400000, guid: 862170ddb19f9ac4a9bb7587ed4ad64b, type: 2}
+  - _groupName: Special
+    _cards:
+    - {fileID: 11400000, guid: cf32387a920c42241adc656df1403706, type: 2}
+    - {fileID: 11400000, guid: c53f5e1677709b041a81a27a89c117fc, type: 2}
+    - {fileID: 11400000, guid: ec932ea51e5dbdc4dae26215b2cc2f2d, type: 2}
+  _cardsComboConfig:
+    _testCombo:
+    - {fileID: 11400000, guid: e484239eae4482747888c39e88bc6bcd, type: 2}
+    - {fileID: 11400000, guid: c53f5e1677709b041a81a27a89c117fc, type: 2}
+    - {fileID: 11400000, guid: a5a186cabde6f0942bde8a082b9fa0d3, type: 2}
+    _comboReward: 5000000
